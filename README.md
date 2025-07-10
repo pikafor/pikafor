@@ -44,4 +44,4 @@
 ---
 
 ### 💬 **Факт обо мне**  
-<img src="https://steamuserimages-a.akamaihd.net/ugc/2503518245762895102/AD09AE8262BF286C5A91566D16B2AEA1A5995278/?imw=512&amp;imh=284&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" width="200">
+<img src="https://i.pinimg.com/originals/a6/2a/40/a62a405a180e9c5fdc3a3b88bc6c3220.gif" width="200">
