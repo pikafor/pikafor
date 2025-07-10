@@ -36,8 +36,7 @@
 ### 📊 **Моя активность**  
 <!-- GitHub Stats -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5tYzV0dW1rbmV5Y2JjZ3BqY2R5eGx6b2RmdmJlcW4xZ2VtY3F6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aTskHEUdgCQAXde/giphy.gif" width="200">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200">
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5tYzV0dW1rbmV5Y2JjZ3BqY2R5eGx6b2RmdmJlcW4xZ2VtY3F6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aTskHEUdgCQAXde/giphy.gif](https://i.pinimg.com/originals/fc/6e/26/fc6e26fa3c34bcd73d480f03656d21af.gif)" width="200">
 </div>
 <!-- WakaTime (если используешь) -->
 <!-- [![Wakatime](https://wakatime.com/badge/user/твой_id.svg)](https://wakatime.com/@твой_id) -->
