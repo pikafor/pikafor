@@ -1,5 +1,5 @@
 <h1 align="center">👋 Здарова, я beluga</h1>
-<h3 align="center">Backend Developer | Россия 🇷🇺 | Люблю сложные системы и кофе</h3>
+<h3 align="center">Backend Developer | Nigeria 🇷🇺 | Люблю липккий и душистый</h3>
 
 <p align="center">
   <a href="https://t.me/G_R_G_H" target="_blank">
@@ -38,17 +38,10 @@
 ---
 
 ### 🔥 **Последние проекты**  
-- **[Название проекта](ссылка)** — Краткое описание (например, "Микросервис на Spring + Kafka")  
-- **[Ещё проект](ссылка)** — Ещё описание  
+- **Samuro**
+- **SoundClassic** — Ещё описание  
 
 ---
 
 ### 💬 **Факт обо мне**  
-```python
-while True:
-    code()
-    coffee()
-    if bug_found:
-        fix()
-    else:
-        deploy()
+<img src="https://steamuserimages-a.akamaihd.net/ugc/2503518245762895102/AD09AE8262BF286C5A91566D16B2AEA1A5995278/?imw=512&amp;imh=284&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" width="200">
