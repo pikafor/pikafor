@@ -10,20 +10,46 @@
 ---
 
 ### 🛠 **Мой стек**  
-**Backend:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka)
+**Фреймворки:**  
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/-Spring_MVC-6DB33F?logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white)
 
-**Базы данных:**  
+**Микросервисы:**  
+![Spring Cloud](https://img.shields.io/badge/-Spring_Cloud-6DB33F?logo=spring&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?logo=apachekafka)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
+![gRPC](https://img.shields.io/badge/-gRPC-4285F4?logo=googlecloud&logoColor=white)
+
+**Инструменты:**  
+![Maven](https://img.shields.io/badge/-Apache_Maven-C71A36?logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white)
+![JUnit5](https://img.shields.io/badge/-JUnit5-25A162?logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/-Mockito-78A641?logo=java&logoColor=white)
+
+---
+
+### 🗃️ **Базы данных**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white)
 
-**DevOps & Tools:**  
+---
+
+### 🐳 **Инфраструктура**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
+
+---
+
+### 💻 **Разное**  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white)
 
 ---
 
