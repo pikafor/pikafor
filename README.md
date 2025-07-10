@@ -2,14 +2,8 @@
 <h3 align="center">Backend Developer | Россия 🇷🇺 | Люблю сложные системы и кофе</h3>
 
 <p align="center">
-  <a href="https://t.me/твой_ник" target="_blank">
+  <a href="https://t.me/G_R_G_H" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="mailto:твой@email.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://linkedin.com/in/твой_профиль">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
@@ -33,7 +27,7 @@
 
 ---
 
-### 📊 **Моя активность**  
+### 📊 **че то типо**  
 <!-- GitHub Stats -->
 <div align="center">
   <img src="https://i.pinimg.com/originals/fc/6e/26/fc6e26fa3c34bcd73d480f03656d21af.gif" width="200">
